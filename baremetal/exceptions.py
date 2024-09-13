@@ -1,0 +1,2 @@
+class ProxyUnavailableException(Exception):
+    pass
